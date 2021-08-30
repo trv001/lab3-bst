@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1630099482 source:c:\users\79222\desktop\lab\avltree\main.cpp
+	<iostream>
+	"AVLTree.h"
+
+1630100582 c:\users\79222\desktop\lab\avltree\avltree.h
+	<cassert>
+	<cmath>
+	"ArraySequence.h"
+	"Pair.h"
+
+1630099570 c:\users\79222\desktop\lab\avltree\arraysequence.h
+	"Sequence.h"
+
+1629801030 c:\users\79222\desktop\lab\avltree\sequence.h
+	"DynamicArray.h"
+	"LinkedList.h"
+
+1629882378 c:\users\79222\desktop\lab\avltree\dynamicarray.h
+	<iostream>
+	<cassert>
+
+1629800074 c:\users\79222\desktop\lab\avltree\linkedlist.h
+	<iostream>
+	<cassert>
+
+1629880825 c:\users\79222\desktop\lab\avltree\pair.h
+
